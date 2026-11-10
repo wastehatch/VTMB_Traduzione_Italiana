@@ -1,4 +1,4 @@
-# Vampire: The Masquerade - Bloodlines: Traduzione italiana
+# Traduzione italiana di Vampire: The Masquerade - Bloodlines (Unofficial Patch 12.0)
 
 Traduzione italiana non ufficiale di **Vampire: The Masquerade - Bloodlines** per la **Unofficial Patch 12.0**: dialoghi, sottotitoli, menu, descrizioni di oggetti, discipline e abilità. L'audio resta in inglese.
 
