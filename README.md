@@ -4,7 +4,9 @@ Traduzione italiana non ufficiale di **Vampire: The Masquerade - Bloodlines** pe
 
 Non è una traduzione solo letterale: cerca di mantenere l'atmosfera del gioco e il tono dei dialoghi, senza snaturare i personaggi. I nomi di discipline, termini e concetti del gioco di ruolo sono presi, dove possibile, dalla guida ufficiale italiana *Vampiri: La Masquerade*, 5ª edizione.
 
-**Pagina ufficiale con guida e aggiornamenti:** https://steamcommunity.com/sharedfiles/filedetails/?id=3837442580
+**Pagina ufficiale con guida e aggiornamenti:**
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3837442580
+- https://www.moddb.com/mods/traduzione-italiana-di-vampire-the-masquerade-bloodlines
 
 ## Download
 
@@ -12,6 +14,7 @@ Scarica lo zip dall'ultima versione nella sezione [Releases](../../releases/late
 
 ## Requisiti
 
+- **Windows 10 o 11, a 64 bit.** Su Windows 7, 8, 8.1 e sui sistemi a 32 bit l'installer di questa versione non parte (compare l'errore «Failed to load Python DLL … python314.dll»). Il problema sarà risolto nelle prossime versioni.
 - Vampire: The Masquerade - Bloodlines (Steam o GOG).
 - **Unofficial Patch 12.0, versione esatta `VTMBup120.9.exe`**, installata *prima* della traduzione. L'installer controlla che i file di Unofficial Patch siano quelli originali della 12.0.9 e, se non lo sono, si ferma senza scrivere nulla.
 
@@ -48,7 +51,7 @@ Solo testi tradotti e differenze (patch) rispetto ai file di Unofficial Patch. N
 
 ## Segnalazioni
 
-Per errori o problemi usa la sezione [Issues](../../issues) oppure i commenti della [guida su Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3837442580). Indica la versione di Unofficial Patch, la versione della traduzione e dove (personaggio, luogo, frase) hai trovato il problema.
+Per errori o problemi usa la sezione [Issues](../../issues) oppure i commenti della [guida su Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3837442580) o della [pagina su ModDB](https://www.moddb.com/mods/traduzione-italiana-di-vampire-the-masquerade-bloodlines). Indica la versione di Unofficial Patch, la versione della traduzione e dove (personaggio, luogo, frase) hai trovato il problema.
 
 ## Note legali
 
