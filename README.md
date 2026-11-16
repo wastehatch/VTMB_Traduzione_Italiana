@@ -14,7 +14,7 @@ Scarica lo zip dall'ultima versione nella sezione [Releases](../../releases/late
 
 ## Requisiti
 
-- **Windows 10 o 11, a 64 bit.** Su Windows 7, 8, 8.1 e sui sistemi a 32 bit l'installer di questa versione non parte (compare l'errore «Failed to load Python DLL … python314.dll»). Il problema sarà risolto nelle prossime versioni.
+- **Windows XP (SP3) o successivo, 32 e 64 bit** (dalla v1.0.0-r2, con installer aggiornato). ~~Windows 10 o 11, a 64 bit. Su Windows 7, 8, 8.1 e sui sistemi a 32 bit l'installer di questa versione non parte (compare l'errore «Failed to load Python DLL … python314.dll»). Il problema sarà risolto nelle prossime versioni.~~ Risolto nella v1.0.0-r2.
 - Vampire: The Masquerade - Bloodlines (Steam o GOG).
 - **Unofficial Patch 12.0, versione esatta `VTMBup120.9.exe`**, installata *prima* della traduzione. L'installer controlla che i file di Unofficial Patch siano quelli originali della 12.0.9 e, se non lo sono, si ferma senza scrivere nulla.
 
