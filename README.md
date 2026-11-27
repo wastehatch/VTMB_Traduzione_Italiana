@@ -14,9 +14,9 @@ Scarica lo zip dall'ultima versione nella sezione [Releases](../../releases/late
 
 ## Requisiti
 
-- **Windows XP (SP3) o successivo, 32 e 64 bit** (dalla v1.0.0-r2, con installer aggiornato). ~~Windows 10 o 11, a 64 bit. Su Windows 7, 8, 8.1 e sui sistemi a 32 bit l'installer di questa versione non parte (compare l'errore «Failed to load Python DLL … python314.dll»). Il problema sarà risolto nelle prossime versioni.~~ Risolto nella v1.0.0-r2.
+- **Windows XP (SP3) o successivo, 32 e 64 bit.**
 - Vampire: The Masquerade - Bloodlines (Steam o GOG).
-- **Unofficial Patch 12.0, versione esatta `VTMBup120.9.exe`**, installata *prima* della traduzione. L'installer controlla che i file di Unofficial Patch siano quelli originali della 12.0.9 e, se non lo sono, si ferma senza scrivere nulla.
+- **Unofficial Patch 12.0, versione esatta `VTMBup120.13.exe`, con il Plus Patch**, installata *prima* della traduzione (il solo Basic Patch non è supportato). L'installer controlla che i file di Unofficial Patch siano quelli originali della 12.0.13 e, se non lo sono, si ferma senza scrivere nulla. Per la 12.0.9 (`VTMBup120.9.exe`) usa la [v1.0.0-r2](../../releases/tag/v1.0.0-r2).
 
 ## Installazione
 
@@ -42,7 +42,7 @@ I file originali vengono ripristinati identici e quelli aggiunti dalla traduzion
 Gli hash SHA-256 dei file sono indicati nelle note di ogni release. Per controllare lo zip in PowerShell:
 
 ```powershell
-Get-FileHash .\VTMB_Traduzione_Italiana_v1.0.0.zip -Algorithm SHA256
+Get-FileHash .\VTMB_Traduzione_Italiana_v1.1.0.zip -Algorithm SHA256
 ```
 
 ## Cosa contiene
@@ -56,3 +56,4 @@ Per errori o problemi usa la sezione [Issues](../../issues) oppure i commenti de
 ## Note legali
 
 Vampire: The Masquerade - Bloodlines è un marchio dei rispettivi proprietari. Questa è una traduzione italiana non ufficiale, senza scopo di lucro, e non è affiliata ai detentori dei diritti.
+````
